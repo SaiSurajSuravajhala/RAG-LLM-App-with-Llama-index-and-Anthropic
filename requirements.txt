@@ -1,0 +1,7 @@
+llama-index
+llama-index-llms-anthropic
+openai
+pypdf
+anthropic
+python-dotenv
+sentence-transformers
