@@ -1,4 +1,4 @@
-# RAG-LLM-App-with-Llama-index-and-ANthropic
+# RAG-LLM-App-with-Llama-index-and-Anthropic
 
 A simple **Retrieval Augmented Generation (RAG)** system that lets you chat with your PDF documents using AI. Upload your PDFs and ask questions about them!
 
